@@ -1,0 +1,21 @@
+# Build output
+/build/
+/app/build/
+
+# Gradle / Kotlin local state
+/.gradle/
+/.kotlin/
+
+# Machine-local config
+/local.properties
+
+# Root-level temporary artifacts should not live in the project root
+/*.png
+/*.jpg
+/*.jpeg
+/*.webp
+/*.gif
+/*logcat*.txt
+/*.db
+/*.sqlite
+/*.sqlite3
